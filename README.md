@@ -19,7 +19,7 @@ This project aims to develop a predictive maintenance model using machine learni
    `pip install pandas scikit-learn matplotlib`
    
 ## 1. Training the Model:
-- Open the provided Jupyter notebook file (`predictive_maintenance.ipynb`) in Jupyter Lab or Jupyter Notebook.
+- Open the provided Jupyter notebook file (`Cape stone Project 1 AnomaData (Automated Anomaly Detection for Predictive Maintenance) (1).ipynb`) in Jupyter Lab or Jupyter Notebook.
 - Run the cells sequentially to:
   - Load and preprocess the dataset.
   - Train the model using the Random Forest Classifier.
