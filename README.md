@@ -13,7 +13,7 @@ This project aims to develop a predictive maintenance model using machine learni
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AnomaData-Predictive-Maintenance.git
+   git clone https://github.com/PoojaSaadvi/DS---Capstone-Project.git
    cd AnomaData-Predictive-Maintenance
 2. Install the required Python libraries using pip:
    `pip install pandas scikit-learn matplotlib`
